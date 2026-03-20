@@ -1,0 +1,8 @@
+{
+  "key.smartphonemod.open_phone": "스마트폰 열기",
+  "key.smartphonemod.end_call": "통화 종료",
+  "key.smartphonemod.accept_call": "전화 받기",
+  "key.smartphonemod.decline_call": "전화 거절",
+  "key.smartphonemod.test_incoming_call": "테스트 수신 전화",
+  "key.categories.smartphonemod": "스마트폰 모드"
+}
